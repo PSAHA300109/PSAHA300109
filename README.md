@@ -1,15 +1,6 @@
 ## Hi, I’m Payel
 
-I work in analytics, focusing on product usage, engagement, and retention in consumer tech.
-
-My experience includes operations and program management roles, which gave me strong exposure to real user problems at scale. I later moved into analytics, where I work on defining metrics, building visibility, and analyzing user behavior to support product and experience decisions.
-
-This GitHub contains practice projects around:
-- Retention and cohort analysis
-- Feature adoption and engagement
-- Product funnels and metric design
-
-The goal is to think clearly about product problems, not to showcase complex models.
-
-Tools: SQL, Python, Excel ,Bigquery, Looker 
+Data Analyst specializing in Business and Decision Analytics, with hands-on experience in retention analysis, funnel analysis, cohort analysis, and KPI design. Builds decision-focused dashboards and analysis used by leadership and operations teams to track engagement, identify churn risk, and prioritize interventions.
+Brings 6+ years of prior experience in customer operations and people management, including leading teams of up to 20 members and owning onboarding and retention outcomes. 
+Tools: SQL, Python (pandas, numpy,matplotlib), Google Sheet , Excel, Looker , POWER BI
 
